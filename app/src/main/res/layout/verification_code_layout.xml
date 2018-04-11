@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+    <EditText
+        android:id="@+id/et_content"
+        android:background="@null"
+        android:textColor="#fff"
+        android:cursorVisible="false"
+        android:inputType="number"
+        android:maxLength="6"
+        android:layout_width="match_parent"
+        android:layout_height="30dp" >
+    </EditText>
+
+    <LinearLayout
+        android:gravity="center_horizontal"
+        android:id="@+id/ll_root"
+        android:layout_width="match_parent"
+        android:orientation="horizontal"
+        android:layout_height="wrap_content">
+
+    </LinearLayout>
+
+</RelativeLayout>
+

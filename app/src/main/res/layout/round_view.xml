@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <View
+        android:layout_gravity="center"
+        android:id="@+id/v1"
+        android:visibility="visible"
+        android:layout_width="41dp"
+        android:background="@drawable/verification_white"
+        android:layout_height="41dp"/>
+
+    <View
+        android:layout_gravity="center"
+        android:id="@+id/v2"
+        android:visibility="gone"
+        android:layout_width="41dp"
+        android:background="@drawable/verification_black"
+        android:layout_height="41dp"/>
+
+</FrameLayout>
+
+<!--<View-->
+<!--xmlns:android="http://schemas.android.com/apk/res/android"-->
+<!--android:layout_width="41dp"-->
+<!--android:background="@drawaverification_whitector"-->
+<!--android:layout_height="41dp"/>-->
+
