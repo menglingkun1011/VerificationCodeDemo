@@ -3,8 +3,8 @@
 
 系统键盘
 
-![image](https://github.com/menglingkun1011/VerificationCodeDemo/blob/master/gif/20180411_162752.gif) 
+![image](https://github.com/menglingkun1011/VerificationCodeDemo/blob/master/gif/20180411_164250.gif) 
 
 自定义键盘
 
-![image](https://github.com/menglingkun1011/VerificationCodeDemo/blob/master/gif/20180411_162950.gif) 
+![image](https://github.com/menglingkun1011/VerificationCodeDemo/blob/master/gif/20180411_164331.gif) 
